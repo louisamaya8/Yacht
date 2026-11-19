@@ -228,8 +228,8 @@ model-viewer{
   </div>
 
   <model-viewer
-    src="casa_real_optimizada.glb"
-    ios-src="casa_real.usdz"
+    src="yate launch.glb"
+    ios-src="yate_launch.usdz"
 
     ar
     ar-modes="webxr scene-viewer quick-look"
@@ -243,7 +243,7 @@ model-viewer{
 
     exposure="1.15"
 
-    alt="Modelo 3D de una cabana">
+    alt="Modelo 3D yate">
 
     <button slot="ar-button" class="ar-button">
 
@@ -261,7 +261,7 @@ model-viewer{
         </div>
 
         <div class="button-subtitle">
-          To view the property, use an open area
+          To view the the yacht's cabin, use an open area
           
         </div>
 
